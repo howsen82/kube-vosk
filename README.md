@@ -5,6 +5,7 @@ $ kubectl apply -f vosk.yaml
 ```
 
 **Test**
+
 You need to install the following dependencies
 
 ```
